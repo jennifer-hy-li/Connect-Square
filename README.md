@@ -8,7 +8,10 @@ A game made in Processing where the objective is to fill and clear rows of block
   * Open the Summative.pde file in Processing and click run
   
 ## Screenshots
-![Gameplay-2](https://imgur.com/knnRrWK)
-![Gameplay-1](https://imgur.com/hEcToxH)
-![Menu Screen](https://imgur.com/tT8rC73)
-![Theme Select Screen](https://imgur.com/VHMqExW)
+### Gameplay
+![Gameplay-2](https://github.com/jenny500li/Connect-Square/blob/master/tbn-game-2.PNG)
+![Gameplay-1](https://github.com/jenny500li/Connect-Square/blob/master/tbn-game-1.PNG)
+### Menu Screen
+![Menu Screen](https://github.com/jenny500li/Connect-Square/blob/master/tbn-menu.PNG)
+### Theme Select Screen
+![Theme Select Screen](https://github.com/jenny500li/Connect-Square/blob/master/tbn-theme-select.PNG)

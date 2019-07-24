@@ -10,7 +10,7 @@ A game made in Processing where the objective is to fill and clear rows of block
 ## Screenshots
 ### Gameplay
 ![Gameplay-2](https://github.com/jenny500li/Connect-Square/blob/master/tbn-game-2.PNG)
-![Gameplay-1](https://github.com/jenny500li/Connect-Square/blob/master/tbn-game-1.PNG)
+![Gameplay-1](https://github.com/jenny500li/Connect-Square/blob/master/tbn-game.PNG)
 ### Menu Screen
 ![Menu Screen](https://github.com/jenny500li/Connect-Square/blob/master/tbn-menu.PNG)
 ### Theme Select Screen
